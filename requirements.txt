@@ -1,0 +1,5 @@
+requests 2.26.0
+pip install requests
+
+BeautifulSoup 4
+pip install beautifulsoup4
